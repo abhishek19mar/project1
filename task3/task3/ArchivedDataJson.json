@@ -1,0 +1,28 @@
+{
+    "companiesList": [
+        {
+            "id": "09d9b8f0-ebd0-11ec-bbee-42010a800008",
+            "name": "test-1",
+            "description": "Company",
+            "imageId": null,
+            "imageUrl": "",
+            "createdBy": 615,
+            "status": "published",
+            "createdAt": "2022-06-14T10:52:09.261583Z",
+            "attachmentDetail": null,
+            "isInvestor": false,
+            "isBookmarked": true,
+            "isLiked": false,
+            "isArchived": false,
+            "totalLikes": 1,
+            "totalViews": 17,
+            "targetAmount": 100000,
+            "expiryDate": "2022-06-30T00:00:00Z",
+            "totalInvestment": 12725,
+            "totalInvestors": null,
+            "remainingAmount": 0,
+            "updateProfileRequest": null,
+            "totalCount": 0
+        }
+    ]
+}
